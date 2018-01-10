@@ -4,3 +4,4 @@ reddit_auth.json
 classdata/*
 lessons/scraping_tutorial
 data/maildir
+enron_emails.csv
