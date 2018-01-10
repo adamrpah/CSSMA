@@ -1,1 +1,6 @@
 census_auth.json
+reddit_auth.json
+*.key
+classdata/*
+lessons/scraping_tutorial
+data/maildir
