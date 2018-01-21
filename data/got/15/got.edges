@@ -1,0 +1,352 @@
+Bran Meera {'weight': 54}
+Bran Stannis {}
+Bran Robb {'weight': 23}
+Bran Rickon {'weight': 35}
+Bran Tywin {}
+Bran Arya {'weight': 9}
+Bran Jojen {'weight': 46}
+Bran Sansa {'weight': 10}
+Bran Eddard {'weight': 15}
+Bran Roose {}
+Bran Rakharo {}
+Bran Luwin {'weight': 4}
+Bran Samwell {'weight': 11}
+Bran Nan {'weight': 14}
+Brynden Catelyn {'weight': 8}
+Brynden Rickard {'weight': 4}
+Brynden Arya {'weight': 6}
+Brynden Lothar {'weight': 4}
+Brynden Janos {}
+Brynden Tywin {'weight': 4}
+Brynden Davos {}
+Brynden Edmure {'weight': 7}
+Kevan Lancel {'weight': 7}
+Kevan Sansa {'weight': 5}
+Kevan Tyrion {'weight': 11}
+Kevan Robb {}
+Kevan Varys {'weight': 5}
+Kevan Joffrey {'weight': 8}
+Beric Arya {'weight': 23}
+Beric Eddard {'weight': 8}
+Beric Jon {}
+Beric Sandor {'weight': 15}
+Beric Styr {}
+Beric Thoros {'weight': 21}
+Eddison Marillion {}
+Eddison Grenn {'weight': 8}
+Eddison Daenerys {}
+Varys Tywin {'weight': 6}
+Varys Renly {'weight': 4}
+Varys Tyrion {'weight': 18}
+Varys Cersei {'weight': 4}
+Varys Mace {}
+Varys Pycelle {'weight': 4}
+Tywin Podrick {'weight': 5}
+Tywin Tyrion {'weight': 39}
+Tywin Davos {}
+Tywin Thoros {}
+Tywin Joffrey {'weight': 13}
+Tywin Arya {}
+Tywin Belwas {}
+Tywin Cersei {}
+Tywin Roslin {}
+Tywin Mance {}
+Tywin Daario {}
+Tywin Pycelle {'weight': 5}
+Tywin Gregor {'weight': 7}
+Tywin Aerys {'weight': 8}
+Tywin Walder {'weight': 4}
+Tywin Viserys {}
+Tywin Catelyn {}
+Tywin Shae {}
+Tywin Samwell {}
+Arya Tyrion {'weight': 5}
+Arya Sandor {'weight': 46}
+Arya Rickon {'weight': 8}
+Arya Brienne {}
+Arya Lysa {}
+Arya Jon {}
+Arya Roose {'weight': 5}
+Arya Cersei {'weight': 5}
+Arya Thoros {'weight': 18}
+Arya Robert {'weight': 4}
+Arya Stannis {}
+Arya Gendry {'weight': 43}
+Arya Jaime {'weight': 11}
+Arya Sansa {'weight': 22}
+Arya Samwell {}
+Lysa Loras {}
+Lysa JonArryn {'weight': 5}
+Lysa Tyrion {'weight': 5}
+Lysa Oberyn {}
+Lysa RobertArryn {}
+Lysa Aemon {}
+Lysa Elia {}
+Lysa Joffrey {}
+Lysa Petyr {}
+Belwas Jorah {'weight': 13}
+Belwas Tyrion {}
+Belwas Jaime {}
+Ilyn Stannis {}
+Ilyn Meryn {'weight': 5}
+Ilyn Tyrion {'weight': 5}
+Ilyn Daario {}
+Ilyn Joffrey {'weight': 4}
+Ilyn Gregor {'weight': 7}
+Cersei Catelyn {'weight': 4}
+Cersei Tyrion {'weight': 46}
+Cersei Sandor {'weight': 6}
+Cersei Robb {}
+Cersei Thoros {}
+Cersei Jorah {}
+Cersei Marillion {}
+Cersei Brienne {'weight': 5}
+Cersei Eddard {'weight': 6}
+Cersei Jon {}
+Cersei Alliser {}
+Cersei Elia {'weight': 4}
+Cersei Robert {'weight': 16}
+Cersei Jaime {}
+Cersei Pycelle {'weight': 4}
+Cersei Sansa {'weight': 16}
+Cersei Bronn {'weight': 4}
+Elia Rhaegar {'weight': 7}
+Elia Jon {}
+Elia Gregor {'weight': 9}
+Roslin Catelyn {'weight': 6}
+Roslin Lothar {'weight': 4}
+Roslin Walder {'weight': 6}
+Stannis Catelyn {'weight': 4}
+Stannis Loras {}
+Stannis Robb {'weight': 4}
+Stannis Edmure {}
+Stannis Joffrey {'weight': 10}
+Stannis Aemon {'weight': 4}
+Stannis Jon {}
+Stannis Balon {'weight': 4}
+Stannis Melisandre {'weight': 20}
+Stannis Rickon {}
+Stannis Samwell {'weight': 13}
+Hodor Catelyn {}
+Hodor Eddard {}
+Hodor Sandor {}
+Hodor Oberyn {}
+Karl Craster {'weight': 6}
+Tommen Catelyn {}
+Tommen Lothar {}
+Tommen Margaery {'weight': 5}
+Tommen Dalla {}
+Tommen Daenerys {}
+Daario Jorah {'weight': 7}
+Daario Robb {}
+Mace Mance {}
+Mace Tyrion {'weight': 9}
+Mance Loras {}
+Mance Robb {}
+Mance Joffrey {}
+Mance Brienne {}
+Mance Ellaria {}
+Mance Val {'weight': 8}
+Mance Gendry {}
+Mance Gilly {}
+Mance Robert {}
+Mance Balon {}
+Jeyne Robb {'weight': 18}
+Jeyne Jon {}
+Pycelle Tyrion {'weight': 11}
+Gilly Craster {'weight': 17}
+Gilly Tyrion {}
+Gilly Jon {'weight': 9}
+Luwin Joffrey {}
+Qyburn Jaime {'weight': 11}
+Sansa Catelyn {'weight': 8}
+Sansa Renly {'weight': 4}
+Sansa Tyrion {}
+Sansa Val {}
+Sansa Robb {'weight': 15}
+Sansa Rickon {'weight': 7}
+Sansa Joffrey {'weight': 35}
+Sansa Meera {}
+Sansa RobertArryn {'weight': 6}
+Sansa Jon {'weight': 4}
+Sansa Theon {}
+Sansa Petyr {'weight': 28}
+Sansa Podrick {'weight': 8}
+Sansa Robert {'weight': 5}
+Sansa Meryn {}
+Sansa Jaime {'weight': 10}
+Sansa Olenna {'weight': 7}
+Sansa Shae {'weight': 8}
+Sansa Brienne {'weight': 5}
+Sansa Barristan {}
+Sansa Margaery {'weight': 36}
+Sansa Oberyn {}
+Viserys Daenerys {'weight': 8}
+Viserys Aerys {}
+Davos Meryn {}
+Davos Alliser {}
+Davos Samwell {}
+Balon Podrick {}
+Balon Loras {'weight': 4}
+Balon Jaime {'weight': 6}
+Balon Irri {}
+Oberyn Shae {}
+Oberyn Tyrion {'weight': 25}
+Oberyn Jaime {}
+Oberyn Joffrey {'weight': 4}
+Meera Cressen {}
+Meera Jon {'weight': 4}
+Meera Jojen {'weight': 33}
+Loras Renly {'weight': 8}
+Loras Tyrion {'weight': 6}
+Loras Joffrey {'weight': 7}
+Loras Qhorin {}
+Loras Margaery {'weight': 9}
+Renly Tyrion {'weight': 6}
+Renly Robert {'weight': 4}
+Renly Robb {}
+Renly Chataya {}
+Renly Margaery {'weight': 7}
+Irri Drogo {'weight': 7}
+Irri Daenerys {'weight': 17}
+Irri Robert {}
+Thoros Gendry {'weight': 7}
+Chataya Tyrion {'weight': 5}
+Aegon Aerys {}
+Shireen Joffrey {}
+Brienne RobertArryn {}
+Brienne Margaery {}
+Brienne Missandei {}
+Jojen Eddard {}
+Jojen Qhorin {}
+Bowen Janos {'weight': 5}
+Bowen Petyr {}
+Hoster Catelyn {'weight': 9}
+Hoster Edmure {'weight': 9}
+Hoster Joffrey {}
+Daenerys Rhaegar {'weight': 12}
+Daenerys Tyrion {}
+Daenerys Robert {'weight': 5}
+Daenerys Jaime {}
+Daenerys Robb {}
+Daenerys Worm {'weight': 14}
+Daenerys Barristan {'weight': 20}
+Daenerys Kraznys {'weight': 10}
+Daenerys Drogo {'weight': 18}
+Daenerys Missandei {'weight': 26}
+Robert JonArryn {'weight': 6}
+Robert Sandor {}
+Robert Ygritte {}
+Robert Styr {}
+Robert Eddard {'weight': 10}
+Robert Jon {'weight': 5}
+Robert Theon {}
+Robert Jaime {'weight': 17}
+Robert Gregor {}
+Robert Barristan {'weight': 5}
+Robert Samwell {}
+Lothar Jaime {}
+Lothar Gregor {}
+Rickard Robb {'weight': 7}
+Shae Jon {}
+Shae Samwell {}
+Rattleshirt Jon {'weight': 20}
+Rattleshirt Qhorin {'weight': 6}
+Rattleshirt Jaime {}
+Rattleshirt Robb {}
+Bronn Samwell {}
+Bronn Robb {}
+Bronn Gregor {'weight': 5}
+Margaery Podrick {'weight': 4}
+Margaery Tyrion {'weight': 7}
+Dalla Val {'weight': 7}
+Dalla Jon {'weight': 6}
+Petyr Catelyn {'weight': 5}
+Petyr Jorah {}
+Petyr Jon {}
+Petyr Samwell {}
+Nan Catelyn {}
+Catelyn Robb {'weight': 43}
+Catelyn Jon {}
+Catelyn Roose {'weight': 4}
+Catelyn Grenn {}
+Catelyn Jaime {'weight': 19}
+Catelyn Gregor {}
+Catelyn Walder {'weight': 19}
+Podrick Tyrion {}
+Tyrion Craster {}
+Tyrion Qhorin {}
+Tyrion Robb {'weight': 12}
+Tyrion Ellaria {'weight': 4}
+Tyrion Melisandre {}
+Tyrion Meryn {'weight': 5}
+Tyrion Myrcella {'weight': 4}
+Tyrion Jaime {'weight': 31}
+Tyrion Doran {'weight': 5}
+Tyrion Aemon {}
+Tyrion Janos {}
+Tyrion Sandor {'weight': 4}
+Tyrion Eddard {}
+Tyrion Jon {}
+Tyrion Roose {}
+Tyrion Gregor {'weight': 22}
+Tyrion Walder {}
+Craster Jon {'weight': 7}
+Craster Samwell {'weight': 34}
+Qhorin Ygritte {'weight': 7}
+Robb Ygritte {}
+Robb Anguy {}
+Robb Rickon {'weight': 15}
+Robb Illyrio {}
+Robb Ramsay {'weight': 4}
+Robb Jon {'weight': 14}
+Robb Melisandre {}
+Robb Gregor {}
+Robb Edmure {'weight': 32}
+Robb Walder {'weight': 26}
+Rickon Theon {'weight': 8}
+Jorah Barristan {'weight': 11}
+Jorah Rhaegar {'weight': 5}
+Amory Alliser {}
+Melisandre Samwell {'weight': 5}
+Val Edmure {}
+Meryn Joffrey {'weight': 5}
+Meryn Jaime {'weight': 11}
+Meryn Sandor {'weight': 4}
+Myrcella Walder {}
+Myrcella Samwell {}
+Myrcella Joffrey {'weight': 5}
+Walton Jaime {'weight': 10}
+Olenna Rhaegar {}
+Orell Jon {'weight': 6}
+Barristan Rhaegar {'weight': 5}
+Barristan Jaime {'weight': 4}
+Aerys Jaime {'weight': 18}
+Aemon Jon {'weight': 30}
+Aemon Grenn {'weight': 5}
+Samwell Janos {'weight': 6}
+Samwell Jaime {}
+Samwell Grenn {'weight': 43}
+Rhaegar Jon {}
+Janos Eddard {}
+Janos Salladhor {}
+Sandor Gendry {'weight': 5}
+Sandor Jaime {}
+Sandor Gregor {'weight': 12}
+Sandor Eddard {'weight': 5}
+Sandor Joffrey {'weight': 14}
+Sandor Walder {}
+Anguy Eddard {}
+Ygritte Jon {}
+Eddard Jaime {'weight': 6}
+Eddard Jon {'weight': 8}
+Jon Edmure {}
+Jon Marillion {}
+Jon Theon {'weight': 8}
+Joffrey Drogo {}
+Joffrey Jaime {'weight': 15}
+Joffrey Gregor {'weight': 5}
+Drogo Jaime {}
+Jaime Edmure {'weight': 5}
+Jaime Gregor {'weight': 6}
+Edmure Walder {'weight': 9}
