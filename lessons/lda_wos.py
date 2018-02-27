@@ -5,7 +5,7 @@ import numpy as np
 
 #Pull the data
 wosdata = json.load(open('../data/wos_topic_doc.json'))
-journals = [k for k in wosdata if k != 'SCIENCE']
+journals = [k for k in wosdata if k in ['GEOLOGY', 'CELL', 'AMERICAN_ECONOMIC_REVIEW']]
 full_docs = []
 for k in journals:
     full_docs += wosdata[k]
@@ -35,15 +35,12 @@ assumed_K_list = [x+1 for x in range(10)] + [20, 30, 40, 50]
 train_perplex, test_perplex, model_bound = [], [], []
 topic_descriptions = {}
 for tmp_k in assumed_K_list:
-    lda = gs.models.ldamodel.LdaModel(corpus=corpus_train, id2word=dictionary, num_topics=tmp_k, update_every=1, chunksize=10000, passes=1)
+    lda = gs.models.ldamodel.LdaModel(corpus=corpus_train, id2word=dictionary, num_topics=tmp_k, alpha=0.05, update_every=1, chunksize=10000, passes=1, seed=1)
     train_perplex.append( 2**-lda.log_perplexity(corpus_train) )
     test_perplex.append( 2**-lda.log_perplexity(corpus_test) )
     model_bound.append( lda.bound(corpus_test) )
-    topic_descriptions[tmp_k] = lda.print_topics(num_words = 5)
     print(tmp_k)
+    print(lda.print_topics(num_words = 5) )
 #Save it down
 json.dump({'train' : train_perplex, 'test': test_perplex, 'k': assumed_K_list, 'bound' : model_bound}, \
-          open('../data/wos_lda/wos_perplexity.json', 'w'))
-for k,v in topic_descriptions.items():
-    print( v )
-
+          open('../data/wos_lda/wos_perplexity_alpha001.json', 'w'))
