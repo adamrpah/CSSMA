@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "lda_wos.py", line 38, in <module>
+    lda = gs.models.ldamodel.LdaModel(corpus=corpus_train, id2word=dictionary, num_topics=tmp_k, update_every=1, chunksize=10000, passes=1, seed=1, alpha=0.001)
+TypeError: __init__() got an unexpected keyword argument 'seed'
