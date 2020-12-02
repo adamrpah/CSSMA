@@ -1,6 +1,12 @@
+# Before class prep
+
+Before class you need to have anaconda 3.7+ installed and download the course documents.
+
+You should download the v1.0 tag of the course from this git repository.
+
 # Installation
 
-Before class starts we'll need to make sure that we're all on the same page. T do that we'll need
+Before class starts we'll need to make sure that we're all on the same page. To do that we'll need
 to install a few extra modules. On the command line of this folder execute:
 
 `conda install -c conda-forge --file requirements.txt`
