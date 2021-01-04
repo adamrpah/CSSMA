@@ -13,7 +13,7 @@ to install a few extra modules. On the command line of this folder execute:
 
 After that, we can install data. The first bit is easy in the same folder execute:
 
-`pip install -r requirements.txt`
+`pip install -r requirements_data.txt`
 
 After that we need to execute a script from the command line
 
