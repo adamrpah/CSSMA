@@ -27,7 +27,7 @@ Install the conda packages:
 
 Next install the pip packages:
 
-`pip install -r requirements_pip.txt`
+`pip install --upgrade -r requirements_pip.txt`
 
 After that, we can install data. The first bit is easy in the same folder execute:
 
