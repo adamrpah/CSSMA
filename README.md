@@ -2,7 +2,7 @@
 
 Before class you need to have anaconda 3.7+ installed and download the course documents.
 
-You should download the v1.01 tag of the course from this git repository.
+You should download the v1.02 tag of the course from this git repository.
 
 # Installation
 
