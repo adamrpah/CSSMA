@@ -1,0 +1,24 @@
+  version: "3"
+  services:
+    graphtool:
+      image: cssma
+      build: 
+        context: .
+      working_dir: /home/user
+      volumes:
+        - /Users/adampah/Dropbox/Teaching/CSSMA/KPHD_CSS:/home/user
+      env_file: cssma.env
+      ports:
+        - 8888:8888
+        - 6006:6006
+        - 8889:8889
+        - 4444:4444
+        - 7900:7900
+      networks:
+        - graphtool
+      user: user
+      command: jupyter notebook --ip 0.0.0.0 --NotebookApp.token='' --NotebookApp.password='' --no-browser
+
+  networks:
+    graphtool:
+      driver: bridge
