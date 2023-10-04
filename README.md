@@ -12,11 +12,11 @@ to install a few extra modules. On the command line of this folder execute:
 
 To install create a new conda environment:
 
-`conda create --name kphd`
+`conda create --name cssma`
 
 Activate the environment:
 
-`conda activate kphd`
+`conda activate cssma`
 
 Install the conda packages:
 
