@@ -4,3 +4,7 @@
 requests
 selenium
 jupyter
+matplotlib
+scipy
+numpy
+openpyxl
