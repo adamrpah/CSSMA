@@ -6,7 +6,7 @@
         context: .
       working_dir: /home/user
       volumes:
-        - /Users/adampah/Dropbox/Teaching/CSSMA/KPHD_CSS:/home/user
+        - /Users/adampah/Dropbox/Teaching/CSSMA/course:/home/user
       env_file: cssma.env
       ports:
         - 8888:8888
