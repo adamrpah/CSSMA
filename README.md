@@ -1,6 +1,6 @@
 # Before class prep
 
-Before class you need to have anacondainstalled and download the course documents.
+Before class you need to have anaconda installed and download the course documents.
 
 You should download the v1.03 tag of the course from this git repository.
 
