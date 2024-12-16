@@ -13,7 +13,7 @@ Update anaconda to make sure we can find the new libmamba solver:
 
 `conda update -n base conda`
 
-Then install the libmamb solver:
+Then install the libmamba solver:
 
 `conda install -n base conda-libmamba-solver
 conda config --set solver libmamba`
